@@ -40,3 +40,5 @@ Requirements:
 
 ## Author
 TK
+
+This is my homework - copying is strictly forbidden :-D
